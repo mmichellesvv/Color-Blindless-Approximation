@@ -7,11 +7,11 @@ This project aims to extend the simple Ishihara dataset by applying color correc
 <img width="1147" height="763" alt="Screenshot 2026-01-19 130548" src="https://github.com/user-attachments/assets/6a14922b-265e-4cfb-9d1c-d38d9b764f7d" />
 
 
-# contributing
+# Contributing
 If you would like to contribute to this project, please create a new branch, make your changes and submit a merge request. Welcome everyone who wants to help improve this solution!
 
-# authors
+# Authors
 Project is developed by https://github.com/mmichellesvv.
 
-# license
+# License
 Licensed under MIT. For more information, see LICENSE.md.

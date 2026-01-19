@@ -1,6 +1,6 @@
 # color-blindless-approximation
 
-This project aims to implement a neural network to automatically correct colors in images to improve their visual perception for people with color blindness. The model is trained on input images for the three main types of color blindness: protanopia (red-green), deuteranopia (red-green), and tritanopia (blue-yellow).
+This project aims to extend the simple Ishihara dataset by applying color correction in the LAB color space to improve the diagnostic distinction of visual perception in people with color blindness. The input images correspond to the three main types of color blindness: protanopia (red–green), deuteranopia (red–green), and tritanopia (blue–yellow).
 
 # Results
 
